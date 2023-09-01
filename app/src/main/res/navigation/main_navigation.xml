@@ -21,7 +21,7 @@
 
     <fragment
         android:id="@+id/title_destination"
-        android:name="com.example.android.guesstheword.screens.title.TitleFragment"
+        android:name="com.example.android.guesstheword.screens.score.title.TitleFragment"
         android:label="title_fragment"
         tools:layout="@layout/title_fragment">
         <action
